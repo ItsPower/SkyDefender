@@ -1,0 +1,9 @@
+main: fr.itspower.skydef.Main
+name: sd
+version: 1.0
+author: Its_Power
+depend: []
+commands:
+    skydef:
+        usage: /<command>
+        aliases: [sd]
